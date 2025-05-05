@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 Actualmente trabajo en  **(http://cimaverso.com/)**
 
-- 🌱 Actualmente me actualizo y especializo en  **Java, Spring, y python con pandas para Ciencia de Datos.**
+- 🌱 Actualmente me actualizo y especializo en  ** python con pandas para Ciencia de Datos.**
 
 - 🤔 Estoy muy interesado en  **Cienca de Datos**
 

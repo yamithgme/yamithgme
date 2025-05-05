@@ -1,11 +1,11 @@
-<!-- Encabezado con línea decorativa -->
+<!-- Línea decorativa inicial -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>
 
 <h1 align="center">Hola 👋, soy Yamith</h1>
 
 <!-- Snake animación -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 <h2 align="center">Un día sin aprender, un día sin vivir</h2>
@@ -47,13 +47,13 @@
 ### 💻 Terminal animada
 
 <div align="center">
-  <img src="https://github.com/khushboogoel01/khushboogoel01/raw/main/gifs/terminal.gif" alt="terminal gif"/>
+  <img src="https://media.tenor.com/_4YgA77ExHEAAAAC/coding.gif" alt="terminal gif" />
 </div>
 
-<!-- Snake final -->
+<!-- Snake animado (cierre visual) -->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-<!-- Línea final -->
+<!-- Línea decorativa final -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider"/>

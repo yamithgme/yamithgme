@@ -44,7 +44,7 @@
 
 ---
 
-### 💻 Terminal animada
+
 
 <div align="center">
   <img src="https://media.tenor.com/_4YgA77ExHEAAAAC/coding.gif" alt="terminal gif" />
